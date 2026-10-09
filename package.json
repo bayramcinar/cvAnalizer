@@ -1,0 +1,13 @@
+{
+  "name": "cvanalizer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "analyze-cv.js",
+  "scripts": {
+    "start": "node analyze-cv.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "dotenv": "^16.4.5"
+  }
+}
